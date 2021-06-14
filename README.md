@@ -4,7 +4,7 @@ A collection of my own Zhihu articles，⭐ means I am very satisfied with this 
 ## Attention Based Model
 ### 1. Vision Transformer
 - ⭐[【T2T-ViT】Tokens-to-Token ViT: Training Vision Transformers from Scratch on Imagenet 学习笔记](https://zhuanlan.zhihu.com/p/359930253)
-- ⭐ [DynamicViT：动态Token稀疏化ViT](https://zhuanlan.zhihu.com/p/380353779)
+- ⭐ [DynamicViT：动态Token稀疏化ViT 论文解读](https://zhuanlan.zhihu.com/p/380353779)
 
 ### 2. Efficient Attention
 - ⭐ [Reformer: The Efficient Transformer 解析](https://zhuanlan.zhihu.com/p/360074457)
